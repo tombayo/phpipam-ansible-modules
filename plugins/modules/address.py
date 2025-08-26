@@ -1,6 +1,6 @@
-#!/usr/bin/env python
-
+#!/usr/bin/python
 # -*- coding: utf-8 -*-
+
 # (c) Christian Meißner 2020
 #
 # This program is free software: you can redistribute it and/or modify
